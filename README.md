@@ -1,3 +1,4 @@
+<img width="1257" height="532" alt="Screenshot 2026-08-03 041105" src="https://github.com/user-attachments/assets/4c02c36a-6763-444e-b8e8-85cdac42bc3f" />
 # My-n8n-workflow
 "Your kitchen team sends one Telegram message. Your inventory updates itself"
 Salta3 Orders — Restaurant Automation with n8n
